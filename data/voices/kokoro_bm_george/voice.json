@@ -1,0 +1,22 @@
+{
+  "id": "kokoro_bm_george",
+  "name": "George \u2022 British male",
+  "provider": "kokoro",
+  "voice_id": "bm_george",
+  "voice_type": "builtin",
+  "language": "en-GB",
+  "gender": "unspecified",
+  "description": "Kokoro Neural \u2022 LOCAL / FREE \u2022 CPU",
+  "delivery": {
+    "pace": 1.0,
+    "energy": 0.65,
+    "expressiveness": 0.7,
+    "warmth": 0.65,
+    "style": "natural conversational podcast host"
+  },
+  "settings": {},
+  "reference_files": [],
+  "consent": null,
+  "created_at": "2026-09-14T11:39:56.515631",
+  "updated_at": "2026-09-14T11:39:56.515631"
+}

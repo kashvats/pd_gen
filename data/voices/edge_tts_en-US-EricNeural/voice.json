@@ -1,0 +1,22 @@
+{
+  "id": "edge_tts_en-US-EricNeural",
+  "name": "Eric (Casual American Male \u2022 Guest)",
+  "provider": "edge_tts",
+  "voice_id": "en-US-EricNeural",
+  "voice_type": "builtin",
+  "language": "en-US",
+  "gender": "unspecified",
+  "description": "Edge Neural Voices (Free \u2022 High Naturalness)",
+  "delivery": {
+    "pace": 1.0,
+    "energy": 0.65,
+    "expressiveness": 0.7,
+    "warmth": 0.65,
+    "style": "natural conversational podcast host"
+  },
+  "settings": {},
+  "reference_files": [],
+  "consent": null,
+  "created_at": "2026-09-14T11:39:56.515631",
+  "updated_at": "2026-09-14T11:39:56.515631"
+}

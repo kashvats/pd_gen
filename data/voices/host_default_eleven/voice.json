@@ -1,0 +1,22 @@
+{
+  "id": "host_default_eleven",
+  "name": "My Host Voice",
+  "provider": "elevenlabs",
+  "voice_id": "21m00Tcm4TlvDq8ikWAM",
+  "voice_type": "builtin",
+  "language": "en",
+  "gender": "female",
+  "description": "Warm, clear, and confident host voice",
+  "delivery": {
+    "pace": 1.0,
+    "energy": 0.7,
+    "expressiveness": 0.75,
+    "warmth": 0.7,
+    "style": "natural conversational podcast host"
+  },
+  "settings": {},
+  "reference_files": [],
+  "consent": null,
+  "created_at": "2026-09-07T17:03:46.120786",
+  "updated_at": "2026-09-07T17:03:46.120786"
+}

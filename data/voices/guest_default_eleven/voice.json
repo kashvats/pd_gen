@@ -1,0 +1,22 @@
+{
+  "id": "guest_default_eleven",
+  "name": "Guest John",
+  "provider": "elevenlabs",
+  "voice_id": "EXAVITQu4vr4xnSDxMaL",
+  "voice_type": "builtin",
+  "language": "en",
+  "gender": "neutral",
+  "description": "Articulate, thoughtful conversational guest",
+  "delivery": {
+    "pace": 1.0,
+    "energy": 0.65,
+    "expressiveness": 0.7,
+    "warmth": 0.65,
+    "style": "natural conversational podcast host"
+  },
+  "settings": {},
+  "reference_files": [],
+  "consent": null,
+  "created_at": "2026-09-07T17:03:46.120786",
+  "updated_at": "2026-09-07T17:03:46.120786"
+}

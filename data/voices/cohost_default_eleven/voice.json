@@ -1,0 +1,22 @@
+{
+  "id": "cohost_default_eleven",
+  "name": "Maya Co-Host",
+  "provider": "elevenlabs",
+  "voice_id": "AZnzlk1XvdvUeBnXmlld",
+  "voice_type": "builtin",
+  "language": "en",
+  "gender": "female",
+  "description": "Curious, friendly, and expressive co-host voice",
+  "delivery": {
+    "pace": 1.05,
+    "energy": 0.8,
+    "expressiveness": 0.85,
+    "warmth": 0.7,
+    "style": "natural conversational podcast host"
+  },
+  "settings": {},
+  "reference_files": [],
+  "consent": null,
+  "created_at": "2026-09-07T17:03:46.120786",
+  "updated_at": "2026-09-07T17:03:46.120786"
+}

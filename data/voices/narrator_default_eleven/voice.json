@@ -1,0 +1,22 @@
+{
+  "id": "narrator_default_eleven",
+  "name": "Studio Narrator",
+  "provider": "elevenlabs",
+  "voice_id": "ErXwobaYiN019PkySvjV",
+  "voice_type": "builtin",
+  "language": "en",
+  "gender": "male",
+  "description": "Deep, calm, measured narration voice",
+  "delivery": {
+    "pace": 0.95,
+    "energy": 0.55,
+    "expressiveness": 0.5,
+    "warmth": 0.6,
+    "style": "natural conversational podcast host"
+  },
+  "settings": {},
+  "reference_files": [],
+  "consent": null,
+  "created_at": "2026-09-07T17:03:46.120786",
+  "updated_at": "2026-09-07T17:03:46.120786"
+}
